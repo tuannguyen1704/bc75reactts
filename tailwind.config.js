@@ -1,4 +1,4 @@
-const flowbite = require("flowbite-react/tailwind");
+import { Flowbite } from "flowbite-react/tailwind";
 /** @type {import('tailwindcss').Config} */
 
 export default {
